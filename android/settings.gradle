@@ -1,0 +1,3 @@
+rootProject.name = 'MakamWebClient'
+
+include ':app'
